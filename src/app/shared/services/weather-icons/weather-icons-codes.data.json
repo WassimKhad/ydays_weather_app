@@ -1,6 +1,6 @@
 {
   "200": {
-    "label": "thunderstorm with light rain",
+    "label": "thunderstorm with pluie légère",
     "icon": "storm-showers"
   },
   "201": {
@@ -8,7 +8,7 @@
     "icon": "storm-showers"
   },
   "202": {
-    "label": "thunderstorm with heavy rain",
+    "label": "thunderstorm with forte pluie",
     "icon": "storm-showers"
   },
   "210": {
@@ -76,11 +76,11 @@
     "icon": "sprinkle"
   },
   "500": {
-    "label": "light rain",
+    "label": "pluie légère",
     "icon": "rain"
   },
   "501": {
-    "label": "moderate rain",
+    "label": "pluie modérée",
     "icon": "rain"
   },
   "502": {
@@ -88,7 +88,7 @@
     "icon": "rain"
   },
   "503": {
-    "label": "very heavy rain",
+    "label": "very forte pluie",
     "icon": "rain"
   },
   "504": {
@@ -100,7 +100,7 @@
     "icon": "rain-mix"
   },
   "520": {
-    "label": "light intensity shower rain",
+    "label": "faible intensité averse pluie",
     "icon": "showers"
   },
   "521": {
@@ -136,7 +136,7 @@
     "icon": "sleet"
   },
   "615": {
-    "label": "light rain and snow",
+    "label": "pluie légère and snow",
     "icon": "rain-mix"
   },
   "616": {
@@ -164,7 +164,7 @@
     "icon": "smoke"
   },
   "721": {
-    "label": "haze",
+    "label": "brume",
     "icon": "day-haze"
   },
   "731": {
@@ -172,7 +172,7 @@
     "icon": "cloudy-gusts"
   },
   "741": {
-    "label": "fog",
+    "label": "brouillard",
     "icon": "fog"
   },
   "751": {
@@ -196,23 +196,23 @@
     "icon": "tornado"
   },
   "800": {
-    "label": "clear sky",
+    "label": "Ciel clair",
     "icon": "sunny"
   },
   "801": {
-    "label": "few clouds",
+    "label": "quelques nuages",
     "icon": "cloudy"
   },
   "802": {
-    "label": "scattered clouds",
+    "label": "nuages dispersés",
     "icon": "cloudy"
   },
   "803": {
-    "label": "broken clouds",
+    "label": "nuages brisés",
     "icon": "cloudy"
   },
   "804": {
-    "label": "overcast clouds",
+    "label": "couvert nuageux",
     "icon": "cloudy"
   },
   "900": {
